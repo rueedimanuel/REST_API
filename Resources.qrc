@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/404Error.png</file>
+        <file>Images/happiness.png</file>
+        <file>Images/favicon.ico</file>
+    </qresource>
+</RCC>
