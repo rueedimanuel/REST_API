@@ -1,0 +1,24 @@
+# ninja log v6
+19	109	7585803109719400	REST_API_autogen/timestamp	bd43f07108527f92
+19	109	7585803109719400	C:/Users/M4nue/Documents/QtDesignStudio/Projects/REST_API/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/REST_API_autogen/mocs_compilation.cpp	bd43f07108527f92
+19	109	7585803109719400	REST_API_autogen/mocs_compilation.cpp	bd43f07108527f92
+381	455	7585781948441062	REST_API_autogen/EWIEGA46WW/qrc_Resources.cpp	1d50b5c52c15a1cc
+462	1192	7585781948561162	CMakeFiles/REST_API.dir/REST_API_autogen/EWIEGA46WW/qrc_Resources.cpp.obj	e500a2c3c2fa422d
+19	109	7585803109719400	C:/Users/M4nue/Documents/QtDesignStudio/Projects/REST_API/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/REST_API_autogen/timestamp	bd43f07108527f92
+381	455	7585781948441062	C:/Users/M4nue/Documents/QtDesignStudio/Projects/REST_API/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/REST_API_autogen/EWIEGA46WW/qrc_Resources.cpp	1d50b5c52c15a1cc
+457	1595	7585781948516172	CMakeFiles/REST_API.dir/main.cpp.obj	1bec427ed73a17d1
+371	1577	7585802117500395	CMakeFiles/REST_API.dir/REST_API_autogen/mocs_compilation.cpp.obj	2601470db2ca83c0
+110	1609	7585803110630290	CMakeFiles/REST_API.dir/mainwindow.cpp.obj	3364a4ded22a7a28
+1609	1725	7585803125620682	REST_API.exe	d57195e25b8fccfe
+373	408	7585802117520520	CMakeFiles/REST_API.dir/myicon.rc.obj	bf9013f2d854b006
+112	1363	7585803110655292	CMakeFiles/REST_API.dir/mapwidget.cpp.obj	c06cfd2a08bab0a8
+19	464	7589272374528839	REST_API_autogen/timestamp	bd43f07108527f92
+19	464	7589272374528839	REST_API_autogen/mocs_compilation.cpp	bd43f07108527f92
+19	464	7589272374528839	C:/Users/M4nue/Documents/QtDesignStudio/Projects/REST_API/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/REST_API_autogen/timestamp	bd43f07108527f92
+19	464	7589272374528839	C:/Users/M4nue/Documents/QtDesignStudio/Projects/REST_API/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/REST_API_autogen/mocs_compilation.cpp	bd43f07108527f92
+466	1721	7589272374979243	CMakeFiles/REST_API.dir/main.cpp.obj	1bec427ed73a17d1
+470	1786	7589272375019355	CMakeFiles/REST_API.dir/mainwindow.cpp.obj	3364a4ded22a7a28
+464	1798	7589272374959250	CMakeFiles/REST_API.dir/REST_API_autogen/mocs_compilation.cpp.obj	2601470db2ca83c0
+472	1973	7589272375039324	CMakeFiles/REST_API.dir/WeatherAPI.cpp.obj	bb0c4ad97955eb3c
+468	2048	7589272374999228	CMakeFiles/REST_API.dir/RickAndMorty.cpp.obj	2ee25bd5738cdcea
+2048	2171	7589272390795006	REST_API.exe	8e7a52410f790a37
